@@ -1,0 +1,13 @@
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\obj\Debug\netcoreapp3.1\piranha.csharp.tests.samples.csprojAssemblyReference.cache
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\obj\Debug\netcoreapp3.1\piranha.csharp.tests.samples.AssemblyInfoInputs.cache
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\obj\Debug\netcoreapp3.1\piranha.csharp.tests.samples.AssemblyInfo.cs
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\obj\Debug\netcoreapp3.1\piranha.csharp.tests.samples.csproj.CoreCompileInputs.cache
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\bin\Debug\netcoreapp3.1\piranha.csharp.tests.samples.exe
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\bin\Debug\netcoreapp3.1\piranha.csharp.tests.samples.deps.json
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\bin\Debug\netcoreapp3.1\piranha.csharp.tests.samples.runtimeconfig.json
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\bin\Debug\netcoreapp3.1\piranha.csharp.tests.samples.runtimeconfig.dev.json
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\bin\Debug\netcoreapp3.1\piranha.csharp.tests.samples.dll
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\bin\Debug\netcoreapp3.1\piranha.csharp.tests.samples.pdb
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\obj\Debug\netcoreapp3.1\piranha.csharp.tests.samples.dll
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\obj\Debug\netcoreapp3.1\piranha.csharp.tests.samples.pdb
+C:\Users\GGPC\Documents\Datacom\piranha\csharp\piranha.csharp.tests.samples\obj\Debug\netcoreapp3.1\piranha.csharp.tests.samples.genruntimeconfig.cache
